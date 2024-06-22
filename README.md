@@ -1,4 +1,4 @@
-# Experiment 2 : NumPy-Arrays
+# NumPy-Arrays
 
 ### Task 1: Creating and Manipulating NumPy Arrays
 
